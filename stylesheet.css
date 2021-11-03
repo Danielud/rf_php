@@ -1,0 +1,93 @@
+#container{
+	width: 900px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+#header{
+	
+	background-color: #66CCFF;
+	text-align:center;
+}
+
+#refferral_form{
+	
+}
+#pt_info{
+	width:50%;
+	float:left;
+}
+#refer_doctor{
+	width:50%;
+	float:right;
+}
+#treat_side_1{
+	width:50%;
+	float:left;
+}
+#treat_side_2{
+	width:50%;
+	float:right;
+}
+#software_side_1{
+	width:50%;
+	float:left;
+}
+#software_side_2{
+	width:50%;
+	float:right;
+}
+input[type=text], select {
+	 width: 100%;
+    padding: 8px 16px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=email], select {
+	 width: 100%;
+    padding: 8px 16px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=number], select {
+	 width: 100%;
+    padding: 8px 16px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=date], select {
+	 width: 100%;
+    padding: 8px 16px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=tel], select {
+	 width: 100%;
+    padding: 8px 16px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#patient_information{
+}
+
+
+#legend_text{
+	color:blue;
+	font-weight:bold;
+}
+
